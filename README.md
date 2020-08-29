@@ -1,4 +1,4 @@
 # InfinitScroll
 
 
-![](InfinitScroll.PNG)
+![](InfiniteScroll.PNG)
